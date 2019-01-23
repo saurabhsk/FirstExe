@@ -1,0 +1,14 @@
+body{
+    background: #D3D3D3;
+    font-family: sans-serif;
+}
+.wrap{
+    width:500px;
+    margin:auto;
+}
+blockquote{
+    width:500px;
+    border: 1px solid white;
+    text-align: center;
+    margin-left: 0;
+}
